@@ -2,9 +2,9 @@
 
 [Live website](https://shahil.cloud/)
 
-This is a project to create a cloud resume using AWS. The project is based on the [Cloud Resume Challenge](https://cloudresumechallenge.dev/). The cloud resume challaenge has allowed ne to learn and implement various AWS services to create a cloud resume whilst gaining exposure to cloud and DevOps concepts.
+This is a project to create a cloud resume using AWS. The project is based on the [Cloud Resume Challenge](https://cloudresumechallenge.dev/). The cloud resume challaenge has allowed me to learn and implement various AWS services to create a cloud resume whilst gaining exposure to cloud and DevOps concepts.
 
-Services used:
+### Services used:
 - S3
 - AWS CloudFront
 - Route 53
@@ -13,7 +13,7 @@ Services used:
 - DynamoDB
 - GitHub Actions
 
-Architecture:
+### Architecture:
 - HTML, CSS, and JavaScript used to create the website.
 - JavaScript used to retreive counter value from API and display on site
 - The website is hosted on S3 and served through CloudFront.
